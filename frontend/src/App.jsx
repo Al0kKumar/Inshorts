@@ -25,7 +25,6 @@ function App() {
     <Box>
       <Header />
       <Container>
-        {/* <InfoHeader /> */}
         <Articles />
       </Container>
     </Box>

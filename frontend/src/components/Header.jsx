@@ -18,7 +18,7 @@ const Image = styled('img')({
 })
 
 const Header = () => {
-    const url = 'https://assets.inshorts.com/website_assets/images/logo_inshorts.png';
+    const url = 'header.jpg';
 
     return (
         <StyledApp>

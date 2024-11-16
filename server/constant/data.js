@@ -2,103 +2,184 @@
 
 export const data = [
     {
-        title: 'Man stabs TN Police sub-inspector over month-old fine for drunk driving',
-        author: 'Shreyasi Banerjee',
-        description: 'A female Tamil Nadu Police sub-inspector was injured after she was stabbed by a man while on duty in Tirunelveli. Police reportedly claimed the accused was enraged as the sub-inspector had booked him one month ago for drunk driving. The accused has been arrested, CM MK Stalin said, adding that he has ordered a high-quality medical treatment for the sub-inspector.',
-        url: 'https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/04_apr/24_sun/img_1650785523938_962.jpg',
-        timestamp: '2024-11-15T07:54:25.000Z',
-        link: 'https://www.thequint.com/amp/story/news/india/man-stabs-tamil-nadu-cop-over-month-old-fine-drunk-driving-sub-inspector?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts',
-        publisher: 'The Quint'
+        "title": "Breakthrough in Quantum Computing Achieved by Researchers",
+        "author": "Dr. Kevin Thomas",
+        "description": "Researchers have achieved a significant breakthrough in quantum computing, developing a new algorithm that dramatically increases processing speed and efficiency. This advancement brings us closer to realizing the potential of quantum technology in various fields.",
+        "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2024/11/nov/16/quantum-computing-breakthrough.jpg",
+        "timestamp": "2024-11-16T13:30:00.000Z",
+        "link": "https://www.techresearch.com/breakthrough-quantum-computing-achieved-researchers",
+        "publisher": "Tech Research"
     },
     {
-        title: "India has suspended Chinese nationals' tourist visas: Global airlines body",
-        author: 'Sakshita Khosla',
-        description: `The Indian government has suspended tourist visas issued to Chinese nationals, global airlines body IATA had told its members on April 20. This came after China refused to allow around 22,000 Indian students enrolled in Chinese universities to enter, despite India's appeals. India has requested China to take a "congenial stance" on the issue, MEA spokesperson Arindam Bagchi had said.`,
-        url: 'https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/04_apr/24_sun/img_1650790243737_885.jpg',
-        timestamp: '2022-04-24T09:08:13.000Z',
-        link: 'https://theprint.in/india/india-suspends-tourist-visas-issued-to-chinese-nationals-iata/928761/?amp=&utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts',
-        publisher: 'The Print'
-    },
+        "title": "International Art Exhibition Showcases Emerging Artists",
+        "author": "Rachel Adams",
+        "description": "An international art exhibition in Paris has showcased the works of emerging artists from around the world. The event has attracted art enthusiasts and collectors, highlighting innovative and diverse artistic expressions.",
+        "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2024/11/nov/16/international-art-exhibition.jpg",
+        "timestamp": "2024-11-16T14:00:00.000Z",
+        "link": "https://www.artnews.com/international-art-exhibition-showcases-emerging-artists",
+        "publisher": "Art News"
+    },        
     {
-        title: `MS Dhoni, teammates dance during Conway's pre-wedding party, CSK share video`,
-        author: 'Anmol Sharma',
-        description: `CSK took to social media to share a video of their players dancing during batter Devon Conway's pre-wedding party. The video also features MS Dhoni dancing during the party. All-rounder Dwayne Bravo can be seen doing the dance steps of his song 'Number One' with leg-spinner Prashant Solanki. Conway has left the bio-bubble for his wedding.`,
-        url: 'https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/watch-csk-players-in-top-form-on-the-dance-floor-at-devon-conways-wedding/articleshow/91065587.cms',
-        timestamp: '2021-09-04T04:20:02.000Z',
-        link: 'https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/04_apr/24_sun/img_1650787598162_905.jpg',
-        publisher: 'The Times of India'
-    },
+        "title": "New Study Reveals Benefits of Mediterranean Diet",
+        "author": "Dr. Anna Roberts",
+        "description": "A new study has revealed the numerous health benefits of the Mediterranean diet, which is rich in fruits, vegetables, whole grains, and healthy fats. The diet has been linked to improved heart health, weight management, and reduced risk of chronic diseases.",
+        "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2024/11/nov/16/mediterranean-diet-benefits.jpg",
+        "timestamp": "2024-11-16T13:00:00.000Z",
+        "link": "https://www.healthnews.com/new-study-reveals-benefits-mediterranean-diet",
+        "publisher": "Health News"
+    },    
     {
-        title: 'Woman constable carries 86-year-old for 5 km in Gujarat’s Kutch desert',
-        author: 'Apaar Sharma',
-        description: `A 27-year-old police constable, Varsha Parmar, lifted an 86-year-old woman on her back and walked for five kilometres under the sun in the white desert of Gujarat's Kutch. The elderly woman had fainted due to sunstroke. Parmar said that she helped the woman for humanity and had no intention of becoming famous after a video of the incident surfaced online.`,
-        url: 'https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/04_apr/24_sun/img_1650786993624_82.jpg',
-        timestamp: '2021-09-04T04:44:03.000Z',
-        link: 'https://www.timesnownews.com/mirror-now/in-focus/woman-cop-carries-ailing-86-year-old-on-shoulders-for-five-kilometres-in-gujarats-kutch-desert-video-goes-viral-article-91036665/amp?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts',
-        publisher: 'Times Now'
-    },
+        "title": "Electric Vehicles Sales Surge Amid Climate Concerns",
+        "author": "Linda Green",
+        "description": "Sales of electric vehicles (EVs) have surged as consumers increasingly prioritize sustainability and environmental impact. Major automakers have reported record sales of EVs, driven by government incentives and growing awareness of climate change.",
+        "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2024/11/nov/16/electric-vehicles-sales-surge.jpg",
+        "timestamp": "2024-11-16T12:30:00.000Z",
+        "link": "https://www.environmentnews.com/electric-vehicles-sales-surge-climate-concerns",
+        "publisher": "Environment News"
+    },    
     {
-        title: 'Akshay Kumar Bell Bottom screened at world highest mobile theatre in Ladakh',
-        author: 'Sakshita Khosla',
-        description: 'Actor Akshay Kumar on Sunday said his recent release Bell Bottom was screened at a travelling cinema hall in Ladakh, touted as the worlds highest mobile theatre. [It] makes my heart swell with pride, said Akshay, sharing a picture of the theatre on Twitter. He added, At an altitude of 11,562 feet, the theatre can operate at -28 °C.',
-        url: 'https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/08_aug/29_sun/img_1630255412572_833.jpg',
-        timestamp: '2021-08-29T16:50:33.000Z',
-        link: 'https://www.hindustantimes.com/entertainment/bollywood/akshay-kumar-s-bellbottom-screened-at-world-s-highest-mobile-theatre-in-ladakh-makes-my-heart-swell-with-pride-101630246753605-amp.html?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts',
-        publisher: 'Hindustan Times'
-    },
+        "title": "Historic Peace Agreement Signed in Middle East",
+        "author": "Michael Brown",
+        "description": "A historic peace agreement has been signed in the Middle East, marking the end of decades of conflict. The agreement, brokered by international mediators, has been hailed as a major diplomatic breakthrough and a step towards lasting peace in the region.",
+        "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2024/11/nov/16/historic-peace-agreement.jpg",
+        "timestamp": "2024-11-16T12:00:00.000Z",
+        "link": "https://www.worldnews.com/historic-peace-agreement-signed-middle-east",
+        "publisher": "World News"
+    },    
     {
-        title: 'New Zealand get all out for 60, their joint-lowest total in T20I cricket history',
-        author: 'Anmol Sharma',
-        description: 'New Zealand were dismissed for 60 runs in the first T20I against Bangladesh at the Shere Bangla National Stadium in Dhaka today. It is New Zealand joint-lowest total in T20I history. They were dismissed for 60 by Sri Lanka in a T20I in 2014. Only captain Tom Latham (18) and Henry Nicholls (18) managed to score in double digits today.',
-        url: 'https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/09_sep/1_wed/img_1630501818892_480.jpg',
-        timestamp: '2021-09-01T13:15:34.000Z',
-        link: 'icc-cricket.com/match/32273?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts#scorecard',
-        publisher: 'ICC'
-    },
+        "title": "Innovative Startup Launches Revolutionary Smartwatch",
+        "author": "Sarah Lee",
+        "description": "A new innovative startup has launched a revolutionary smartwatch that combines advanced health tracking features with cutting-edge technology. The smartwatch has received rave reviews for its sleek design and comprehensive health monitoring capabilities.",
+        "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2024/11/nov/16/innovative-smartwatch-launch.jpg",
+        "timestamp": "2024-11-16T11:30:00.000Z",
+        "link": "https://www.technews.com/innovative-startup-launches-revolutionary-smartwatch",
+        "publisher": "Tech News"
+    },    
     {
-        title: 'Vets in Pune perform successful hernia surgery on a dog in a first',
-        author: 'Medhaa Gupta',
-        description: 'Veterinarians in Pune have for the first time successfully performed hernia surgery on a three-year-old dog. The dog owner said that its condition has improved since the surgery, adding, The surgery has made us realise that even animals suffer diseases like humans but cant express it like us. The dog, named Rolly, has had only one kidney since birth.',
-        url: 'https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/09_sep/4_sat/img_1630728304437_748.jpg',
-        timestamp: '2021-09-04T04:20:02.000Z',
-        link: 'icc-cricket.com/match/32273?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts#scorecard',
-        publisher: 'Times of India'
-    },
+        "title": "Global Stock Markets Rally Amid Economic Optimism",
+        "author": "John Smith",
+        "description": "Global stock markets have rallied amid renewed optimism about economic growth. Major indices in the US, Europe, and Asia have posted significant gains, driven by strong corporate earnings and positive economic data.",
+        "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2024/11/nov/16/global-stock-markets-rally.jpg",
+        "timestamp": "2024-11-16T10:45:00.000Z",
+        "link": "https://www.financenews.com/global-stock-markets-rally-economic-optimism",
+        "publisher": "Finance News"
+    },    
     {
-        title: 'Expect to have real inclusive government in Afghanistan: US',
-        author: 'Athira Sasidharan',
-        description: 'The US and the international community expect Taliban to form a real inclusive government in Afghanistan with representations from different communities and interests, State Secretary Antony Blinken said. "[Its] important...what the government looks like...[but whats] more important...is what any government does," he added. Taliban is expected to announce the formation of a new government soon.',
-        url: 'https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/09_sep/4_sat/img_1630726644997_175.jpg',
-        timestamp: '2021-09-04T04:44:03.000Z',
-        link: 'https://www.hindustantimes.com/world-news/expect-to-have-real-inclusive-government-in-afghanistan-antony-blinken-101630721129848-amp.html?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts',
-        publisher: 'Hindustan Times'
-    },
+        "title": "UN Report Describes Israel's Conduct in Gaza as 'Consistent with Characteristics of Genocide'",
+        "author": "Sarah Ahmed",
+        "description": "A recent UN report has described Israel's conduct in Gaza as consistent with the characteristics of genocide. The report has sparked international outrage and calls for immediate action to address the humanitarian crisis.",
+        "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2024/11/nov/16/un-report-gaza.jpg",
+        "timestamp": "2024-11-16T01:41:28.000Z",
+        "link": "https://www.msn.com/en-in/news/world/un-report-describes-israels-conduct-in-gaza-as-consistent-with-characteristics-of-genocide",
+        "publisher": "MSN"
+    },    
     {
-        title: 'Shooter Narwal bags India 3rd gold at Tokyo Paralympics, Singhraj wins silver medal',
-        author: 'Anmol Sharma',
-        description: 'Shooter Manish Narwal won the men’s P4 Mixed 50m Pistol SH1 final to bag Indias third gold at Tokyo Paralympics. The 19-year-old won the event by breaking Paralympic record with a score of 218.2. Meanwhile, shooter Singhraj won silver, his second medal at the ongoing Paralympics after his bronze in P1 Mens 10m Air Pistol SH1 event.',
-        url: 'https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/09_sep/4_sat/img_1630727272211_213.jpg',
-        timestamp: '2021-09-04T03:55:14.000Z',
-        link: 'https://olympics.com/tokyo-2020/paralympic-games/en/results/shooting/results-p4-mixed-50m-pistol-sh1-fnl-000100-.htm?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts',
-        publisher: 'Olympics'
-    },
+        "title": "Jhansi Hospital Fire: Post-mortem of 10 Newborns Underway; Deputy CM Promises Multi-Level Probe",
+        "author": "Rajesh Kumar",
+        "description": "A tragic fire broke out at the Maharani Laxmi Bai Medical College in Jhansi, resulting in the death of 10 newborns. The post-mortem examinations are currently underway, and Deputy Chief Minister Brajesh Pathak has promised a thorough investigation.",
+        "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2024/11/nov/16/jhansi-hospital-fire.jpg",
+        "timestamp": "2024-11-16T05:18:17.000Z",
+        "link": "https://www.msn.com/en-in/news/other/jhansi-hospital-fire-post-mortem-of-10-newborns-underway-deputy-cm-promises-multi-level-probe",
+        "publisher": "MSN"
+    },    
     {
-        title: 'Noida DM Suhas LY reaches badminton final at Paralympics, assures India of a medal',
-        author: 'Anmol Sharma',
-        description: 'Noida District Magistrate (DM) Suhas LY, who is representing India in para badminton at the Tokyo Paralympics, has entered the final of the mens singles SL4 category. He defeated Setiawan Fredy of Indonesia in the semi-final with the scoreline of 21-9, 21-15. Earlier in the day, Pramod Bhagat also reached the final of the mens singles SL3 event.',
-        url: 'https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/09_sep/4_sat/img_1630725723044_624.jpg',
-        timestamp: '2021-09-04T03:55:14.000Z',
-        link: 'https://olympics.com/tokyo-2020/paralympic-games/en/results/badminton/results-men-s-singles-sl4-sfnl-000200-.htm?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts',
-        publisher: 'Olympics'
-    },
+        "title": "International Art Exhibition Showcases Emerging Artists",
+        "author": "Rachel Adams",
+        "description": "An international art exhibition in Paris has showcased the works of emerging artists from around the world. The event has attracted art enthusiasts and collectors, highlighting innovative and diverse artistic expressions.",
+        "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2024/11/nov/16/international-art-exhibition.jpg",
+        "timestamp": "2024-11-16T14:00:00.000Z",
+        "link": "https://www.artnews.com/international-art-exhibition-showcases-emerging-artists",
+        "publisher": "Art News"
+    },    
     {
-        title: 'Cristiano Ronaldo to wear jersey number seven at Manchester United again',
-        author: 'Anmol Sharma',
-        description: 'Manchester United have confirmed that Cristiano Ronaldo will wear the number seven jersey after returning to Old Trafford. The five-time Ballon dOr wore the shirt number during his first spell with the club from 2003-2009. It has previously been worn by club legends like George Best, Bryan Robson, Eric Cantona and David Beckham. Ronaldo inherited the number from Edinson Cavani.',
-        url: 'https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/09_sep/3_fri/img_1630691914830_548.jpg',
-        timestamp: '2021-09-04T03:55:14.000Z',
-        link: 'https://www.manutd.com/en/amp/news/detail/cristiano-ronaldo-to-wear-the-number-7-shirt-for-man-utd?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts',
-        publisher: 'Man Utd'
-    }
+        "title": "Breakthrough in Quantum Computing Achieved by Researchers",
+        "author": "Dr. Kevin Thomas",
+        "description": "Researchers have achieved a significant breakthrough in quantum computing, developing a new algorithm that dramatically increases processing speed and efficiency. This advancement brings us closer to realizing the potential of quantum technology in various fields.",
+        "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2024/11/nov/16/quantum-computing-breakthrough.jpg",
+        "timestamp": "2024-11-16T13:30:00.000Z",
+        "link": "https://www.techresearch.com/breakthrough-quantum-computing-achieved-researchers",
+        "publisher": "Tech Research"
+    },    
+    {
+        "title": "New Study Reveals Benefits of Mediterranean Diet",
+        "author": "Dr. Anna Roberts",
+        "description": "A new study has revealed the numerous health benefits of the Mediterranean diet, which is rich in fruits, vegetables, whole grains, and healthy fats. The diet has been linked to improved heart health, weight management, and reduced risk of chronic diseases.",
+        "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2024/11/nov/16/mediterranean-diet-benefits.jpg",
+        "timestamp": "2024-11-16T13:00:00.000Z",
+        "link": "https://www.healthnews.com/new-study-reveals-benefits-mediterranean-diet",
+        "publisher": "Health News"
+    },    
+    {
+        "title": "Electric Vehicles Sales Surge Amid Climate Concerns",
+        "author": "Linda Green",
+        "description": "Sales of electric vehicles (EVs) have surged as consumers increasingly prioritize sustainability and environmental impact. Major automakers have reported record sales of EVs, driven by government incentives and growing awareness of climate change.",
+        "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2024/11/nov/16/electric-vehicles-sales-surge.jpg",
+        "timestamp": "2024-11-16T12:30:00.000Z",
+        "link": "https://www.environmentnews.com/electric-vehicles-sales-surge-climate-concerns",
+        "publisher": "Environment News"
+    },    
+    {
+        "title": "Historic Peace Agreement Signed in Middle East",
+        "author": "Michael Brown",
+        "description": "A historic peace agreement has been signed in the Middle East, marking the end of decades of conflict. The agreement, brokered by international mediators, has been hailed as a major diplomatic breakthrough and a step towards lasting peace in the region.",
+        "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2024/11/nov/16/historic-peace-agreement.jpg",
+        "timestamp": "2024-11-16T12:00:00.000Z",
+        "link": "https://www.worldnews.com/historic-peace-agreement-signed-middle-east",
+        "publisher": "World News"
+    },    
+    {
+        "title": "Innovative Startup Launches Revolutionary Smartwatch",
+        "author": "Sarah Lee",
+        "description": "A new innovative startup has launched a revolutionary smartwatch that combines advanced health tracking features with cutting-edge technology. The smartwatch has received rave reviews for its sleek design and comprehensive health monitoring capabilities.",
+        "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2024/11/nov/16/innovative-smartwatch-launch.jpg",
+        "timestamp": "2024-11-16T11:30:00.000Z",
+        "link": "https://www.technews.com/innovative-startup-launches-revolutionary-smartwatch",
+        "publisher": "Tech News"
+    },    
+    {
+        "title": "Global Stock Markets Rally Amid Economic Optimism",
+        "author": "John Smith",
+        "description": "Global stock markets have rallied amid renewed optimism about economic growth. Major indices in the US, Europe, and Asia have posted significant gains, driven by strong corporate earnings and positive economic data.",
+        "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2024/11/nov/16/global-stock-markets-rally.jpg",
+        "timestamp": "2024-11-16T10:45:00.000Z",
+        "link": "https://www.financenews.com/global-stock-markets-rally-economic-optimism",
+        "publisher": "Finance News"
+    },    
+    {
+        "title": "Breakthrough in Alzheimer's Research Offers New Hope",
+        "author": "Dr. Emily Davis",
+        "description": "Researchers have made a significant breakthrough in Alzheimer's research, discovering a new treatment that shows promise in slowing the progression of the disease. The treatment, currently in clinical trials, could be a game-changer for millions of patients worldwide.",
+        "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2024/11/nov/16/alzheimers-research-breakthrough.jpg",
+        "timestamp": "2024-11-16T10:00:00.000Z",
+        "link": "https://www.medicalnews.com/breakthrough-alzheimers-research-new-hope",
+        "publisher": "Medical News"
+    },    
+    {
+        "title": "Major Cyberattack Targets International Banks",
+        "author": "Jane Doe",
+        "description": "A major cyberattack has targeted several international banks, compromising the personal data of millions of customers. The attack is believed to have been carried out by a sophisticated hacking group, prompting a coordinated global investigation.",
+        "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2024/11/nov/16/cyberattack-international-banks.jpg",
+        "timestamp": "2024-11-16T09:15:00.000Z",
+        "link": "https://www.cybersecuritynews.com/major-cyberattack-targets-international-banks",
+        "publisher": "Cyber Security News"
+    },    
+    {
+        "title": "NASA Announces Successful Test of Artemis Moon Lander",
+        "author": "Alex Johnson",
+        "description": "NASA has announced the successful test of the Artemis Moon Lander, which is slated to carry astronauts back to the Moon by 2025. The test was conducted at NASA's Kennedy Space Center, marking a significant milestone in the Artemis program.",
+        "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2024/11/nov/16/nasa-artemis-moon-lander.jpg",
+        "timestamp": "2024-11-16T08:30:00.000Z",
+        "link": "https://www.space.com/nasa-successful-test-artemis-moon-lander",
+        "publisher": "Space.com"
+    },    
+    {
+        title: "Jake Paul beats legendary Mike Tyson in blockbuster Netflix boxing bout",
+        author: "Shreyasi Banerjee",
+        description: "Jake Paul secured a victory over the legendary Mike Tyson in a highly anticipated boxing match streamed on Netflix. The bout, which took place on November 15, 2024, saw Paul outclass Tyson with a combination of speed and agility, leading to a unanimous decision in his favor. This win has significantly boosted Paul's profile in the boxing world.",
+        url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2024/11/nov/15/jake-paul-vs-mike-tyson.jpg",
+        timestamp: "2024-11-15T07:54:25.000Z",
+        link: "https://www.thequint.com/amp/story/news/world/jake-paul-beats-legendary-mike-tyson-in-blockbuster-netflix-boxing-bout?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts",
+        publisher: "The Quint"
+    },
 
 ];

@@ -119,24 +119,6 @@ export const data = [
         "publisher": "Medical News"
     },
     {
-        "title": "Global Economic Growth Exceeds Expectations",
-        "author": "Emma Johnson",
-        "description": "The global economy has grown faster than expected this year, according to the latest reports. This growth is driven by strong performances in the tech and renewable energy sectors, as well as increased consumer spending.",
-        "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2024/11/nov/16/global-economic-growth.jpg",
-        "timestamp": "2024-11-16T13:00:00.000Z",
-        "link": "https://www.economicsnews.com/global-growth-exceeds-expectations",
-        "publisher": "Economics News"
-    },
-    {
-        "title": "Innovative Recycling Program Reduces Waste",
-        "author": "Ravi Kumar",
-        "description": "An innovative recycling program has significantly reduced waste in several major cities. The program focuses on educating residents and providing easy access to recycling facilities, resulting in a cleaner and more sustainable urban environment.",
-        "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2024/11/nov/16/recycling-program-success.jpg",
-        "timestamp": "2024-11-16T13:30:00.000Z",
-        "link": "https://www.sustainablenews.com/innovative-recycling-program",
-        "publisher": "Sustainable News"
-    },
-    {
         "title": "New Educational Platform Launched to Support Online Learning",
         "author": "Olivia White",
         "description": "A new educational platform has been launched to support online learning, offering a wide range of courses and resources for students of all ages. The platform aims to make education more accessible and flexible.",

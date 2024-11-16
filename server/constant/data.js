@@ -2,6 +2,15 @@
 
 export const data = [
     {
+        "title": "India vs South Africa 3rd T20I: Abhishek Sharma, Tilak Varma Shine",
+        "author": "Sports Desk",
+        "description": "India posted a commanding total of 172/4 in 20 overs, thanks to a brilliant 78 by Tilak Varma and a quick 45 by Abhishek Sharma. South Africa struggled in their chase, finishing at 130/8.",
+        "url": "https://indianexpress.com/article/sports/cricket/ind-vs-sa-3rd-t20i-live-cricket-score-9672152/",
+        "timestamp": "2024-11-16T10:30:00.000Z",
+        "link": "https://www.indianexpress.com/article/sports/cricket/ind-vs-sa-3rd-t20i-live-cricket-score-9672152/",
+        "publisher": "Indian Express"
+      },      
+    {
         "title": "Breakthrough in Quantum Computing Achieved by Researchers",
         "author": "Dr. Kevin Thomas",
         "description": "Researchers have achieved a significant breakthrough in quantum computing, developing a new algorithm that dramatically increases processing speed and efficiency. This advancement brings us closer to realizing the potential of quantum technology in various fields.",
@@ -10,6 +19,132 @@ export const data = [
         "link": "https://www.techresearch.com/breakthrough-quantum-computing-achieved-researchers",
         "publisher": "Tech Research"
     },
+    {
+        "title": "Major Breakthrough in Renewable Energy Storage",
+        "author": "Maya Patel",
+        "description": "Scientists have developed a new method for storing renewable energy, making solar and wind power more viable. The breakthrough could significantly reduce the world’s reliance on fossil fuels.",
+        "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2024/11/nov/16/renewable-energy-storage.jpg",
+        "timestamp": "2024-11-16T08:30:00.000Z",
+        "link": "https://www.energynews.com/breakthrough-renewable-energy-storage",
+        "publisher": "Energy News"
+    },
+    {
+        "title": "Sachin Tendulkar Retires from Cricket 11 Years Ago Today",
+        "author": "Sports Desk",
+        "description": "On November 16, 2013, Sachin Tendulkar retired from international cricket after playing his 200th Test match at Mumbai's Wankhede Stadium. He ended his career with 34,357 runs in 664 matches across all formats.",
+        "url": "https://indianexpress.com/article/sports/cricket/sachin-tendulkar-retires-from-cricket-9119109/",
+        "timestamp": "2024-11-16T09:00:00.000Z",
+        "link": "https://www.indianexpress.com/article/sports/cricket/sachin-tendulkar-retires-from-cricket-9119109/",
+        "publisher": "Indian Express"
+      },
+      {
+        "title": "Mohammed Shami Returns to Competitive Cricket",
+        "author": "Sports Desk",
+        "description": "Indian pacer Mohammed Shami made a subdued return to competitive cricket after 360 days, going wicket-less in his 10 overs during Bengal's Ranji Trophy match against Madhya Pradesh.",
+        "url": "https://indianexpress.com/article/sports/cricket/mohammed-shami-returns-to-competitive-cricket-9119109/",
+        "timestamp": "2024-11-16T11:00:00.000Z",
+        "link": "https://www.indianexpress.com/article/sports/cricket/mohammed-shami-returns-to-competitive-cricket-9119109/",
+        "publisher": "Indian Express"
+      },            
+    {
+        "title": "Global Wildlife Conservation Efforts See Success",
+        "author": "Rahul Singh",
+        "description": "New reports show that global wildlife conservation efforts have led to an increase in populations of several endangered species. This success is attributed to international cooperation and stricter enforcement of wildlife protection laws.",
+        "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2024/11/nov/16/wildlife-conservation-success.jpg",
+        "timestamp": "2024-11-16T09:15:00.000Z",
+        "link": "https://www.conservationnews.com/global-wildlife-conservation-efforts",
+        "publisher": "Conservation News"
+    },
+    {
+        "title": "Innovative AI Technology Transforms Healthcare",
+        "author": "Ayesha Khan",
+        "description": "A new AI technology is transforming the healthcare industry by providing faster and more accurate diagnoses. The technology has already been implemented in several hospitals and has shown promising results in improving patient outcomes.",
+        "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2024/11/nov/16/ai-healthcare-transformation.jpg",
+        "timestamp": "2024-11-16T10:00:00.000Z",
+        "link": "https://www.healthtechnews.com/ai-technology-healthcare",
+        "publisher": "Health Tech News"
+    },
+    {
+        "title": "Revolutionary Water Purification System Unveiled",
+        "author": "Samantha Lee",
+        "description": "A revolutionary water purification system has been unveiled, promising to provide clean drinking water to millions of people in developing countries. The system is affordable and easy to deploy, making it a game-changer in the fight against water scarcity.",
+        "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2024/11/nov/16/water-purification-system.jpg",
+        "timestamp": "2024-11-16T10:45:00.000Z",
+        "link": "https://www.waternews.com/revolutionary-purification-system",
+        "publisher": "Water News"
+    },
+    {
+        "title": "Rishabh Pant Hit on Body During Training",
+        "author": "Sports Desk",
+        "description": "Indian wicketkeeper-batsman Rishabh Pant was hit on the body during training in Perth. The team has been training behind a black cloth to avoid media attention.",
+        "url": "https://indianexpress.com/article/sports/cricket/rishabh-pant-hit-on-body-during-training-9119109/",
+        "timestamp": "2024-11-16T12:00:00.000Z",
+        "link": "https://www.indianexpress.com/article/sports/cricket/rishabh-pant-hit-on-body-during-training-9119109/",
+        "publisher": "Indian Express"
+      },      
+    {
+        "title": "New Space Mission to Mars Announced",
+        "author": "Daniel Chen",
+        "description": "SpaceX has announced a new mission to Mars, set to launch in 2025. The mission aims to explore the potential for human colonization of the Red Planet and conduct experiments to understand its environment better.",
+        "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2024/11/nov/16/space-mission-mars.jpg",
+        "timestamp": "2024-11-16T11:30:00.000Z",
+        "link": "https://www.spacenews.com/spacex-new-mars-mission",
+        "publisher": "Space News"
+    },
+    {
+        "title": "Electric Vehicle Sales Reach New Highs",
+        "author": "Anita Sharma",
+        "description": "Sales of electric vehicles have reached new highs this quarter, driven by increasing consumer demand and government incentives. This surge in EV sales is a positive sign for the transition to greener transportation.",
+        "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2024/11/nov/16/electric-vehicle-sales.jpg",
+        "timestamp": "2024-11-16T12:00:00.000Z",
+        "link": "https://www.greencarnews.com/electric-vehicle-sales-high",
+        "publisher": "Green Car News"
+    },
+    {
+        "title": "India Women to Host West Indies and Ireland for White-Ball Series",
+        "author": "Sports Desk",
+        "description": "The Indian women's cricket team will host West Indies and Ireland for a limited-overs series starting December 15, 2024, as announced by the BCCI.",
+        "url": "https://indianexpress.com/article/sports/cricket/indian-women-to-host-west-indies-and-ireland-for-white-ball-series-9119109/",
+        "timestamp": "2024-11-16T13:00:00.000Z",
+        "link": "https://www.indianexpress.com/article/sports/cricket/indian-women-to-host-west-indies-and-ireland-for-white-ball-series-9119109/",
+        "publisher": "Indian Express"
+      },      
+    {
+        "title": "Breakthrough in Cancer Treatment Research",
+        "author": "Carlos Martinez",
+        "description": "Researchers have made a significant breakthrough in cancer treatment, developing a new drug that targets cancer cells more effectively while minimizing side effects. Clinical trials have shown promising results.",
+        "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2024/11/nov/16/cancer-treatment-breakthrough.jpg",
+        "timestamp": "2024-11-16T12:30:00.000Z",
+        "link": "https://www.mednews.com/cancer-treatment-breakthrough",
+        "publisher": "Medical News"
+    },
+    {
+        "title": "Global Economic Growth Exceeds Expectations",
+        "author": "Emma Johnson",
+        "description": "The global economy has grown faster than expected this year, according to the latest reports. This growth is driven by strong performances in the tech and renewable energy sectors, as well as increased consumer spending.",
+        "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2024/11/nov/16/global-economic-growth.jpg",
+        "timestamp": "2024-11-16T13:00:00.000Z",
+        "link": "https://www.economicsnews.com/global-growth-exceeds-expectations",
+        "publisher": "Economics News"
+    },
+    {
+        "title": "Innovative Recycling Program Reduces Waste",
+        "author": "Ravi Kumar",
+        "description": "An innovative recycling program has significantly reduced waste in several major cities. The program focuses on educating residents and providing easy access to recycling facilities, resulting in a cleaner and more sustainable urban environment.",
+        "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2024/11/nov/16/recycling-program-success.jpg",
+        "timestamp": "2024-11-16T13:30:00.000Z",
+        "link": "https://www.sustainablenews.com/innovative-recycling-program",
+        "publisher": "Sustainable News"
+    },
+    {
+        "title": "New Educational Platform Launched to Support Online Learning",
+        "author": "Olivia White",
+        "description": "A new educational platform has been launched to support online learning, offering a wide range of courses and resources for students of all ages. The platform aims to make education more accessible and flexible.",
+        "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2024/11/nov/16/educational-platform-online-learning.jpg",
+        "timestamp": "2024-11-16T14:00:00.000Z",
+        "link": "https://www.edutechnews.com/new-online-learning-platform",
+        "publisher": "EduTech News"
+    },                                        
     {
         "title": "International Art Exhibition Showcases Emerging Artists",
         "author": "Rachel Adams",

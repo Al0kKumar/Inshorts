@@ -22,7 +22,7 @@ const Container = styled(Box)(({ theme }) => ({
 function App() {
 
   return (
-    <Box>
+    <Box style={{backgrooundColor: 'black', minHeight: '100vh'}}>
       <Header />
       <Container>
         <Articles />

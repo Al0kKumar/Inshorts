@@ -80,7 +80,7 @@ const Article = ({ article }) => {
                     <RightContainer lg={7} md={7} sm={7} xs={12} item>
                         <Title>{article.title}</Title>
                         <Author>
-                            <Short>short</Short> by {article.author} / {new Date(article.timestamp).toDateString()}
+                            <Short>short</Short> by {article.author} / Tues Dec 10 ,2024
                         </Author>
                         <Description>{article.description}</Description>
                         <Publisher>
